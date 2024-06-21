@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Hi there, I'm Mano Nunna 👋
 🔧 DevOps Engineer | Cloud Architect | SRE | Kubernetes | Terraform | CI/CD Automation | Ansible
+
 I am passionate about leveraging technology to streamline operations, enhance system performance, and build resilient infrastructure. My expertise includes:
 
 🔧 DevOps Engineer: Building and maintaining CI/CD pipelines, automating deployments, and implementing monitoring and logging solutions.
@@ -28,10 +29,11 @@ I am passionate about leveraging technology to streamline operations, enhance sy
 🚀 CI/CD Automation: Building automated CI/CD pipelines with Jenkins, GitLab CI, and GitHub Actions, integrating testing and security checks, and streamlining release processes.
 📦 Ansible: Automating IT infrastructure, managing configuration, and deploying applications with Ansible playbooks and roles.
 
+
 I enjoy solving complex problems, collaborating with cross-functional teams, and continuously learning about emerging technologies. Check out my repositories to see some of my projects and contributions.
 
-💬 Ask Me About
-DevOps, cloud infrastructure, or automation
+💬 Ask Me About DevOps, cloud infrastructure, or automation
+
 📫 How to Reach Me
 Email: kmsystam@gmail.com
 LinkedIn: www.linkedin.com/in/manohar-nunna
